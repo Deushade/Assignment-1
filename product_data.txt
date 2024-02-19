@@ -1,0 +1,50 @@
+57353, Camera SBBHC, 546.88, Electronics
+40374, Smartphone ILGCU, 947.54, Electronics
+34863, Biography XPESK, 287.31, Books
+18086, Shirt ZQLTI, 439.07, Clothing
+16041, Jacket OTBKQ, 986.73, Clothing
+43566, Mystery COKPK, 836.57, Books
+69260, Toaster FODKJ, 867.6, Home & Kitchen
+30895, Knife Set KGFUF, 385.77, Home & Kitchen
+19897, Blender DPKLR, 488.62, Home & Kitchen
+87296, Skirt IRTZX, 261.08, Clothing
+68215, Laptop QLBQC, 404.21, Electronics
+68097, Camera SGSRZ, 36.39, Electronics
+26556, Novel METLI, 376.45, Books
+30483, Knife Set WRSZZ, 55.97, Home & Kitchen
+62422, Camera VFQWS, 382.69, Electronics
+22806, Smartwatch VVFNT, 203.55, Electronics
+24976, Pants YZMAK, 449.56, Clothing
+30631, Headphones JFGYQ, 115.08, Electronics
+27939, Textbook TWQKZ, 108.5, Books
+41355, Headphones JOUXM, 211.57, Electronics
+94162, Laptop WRJOZ, 956.53, Electronics
+28710, Dress FRSMO, 879.09, Clothing
+90291, Pants TIPUD, 853.38, Clothing
+20368, Shirt FQFPK, 83.19, Clothing
+68960, Blender OMDPS, 720.06, Home & Kitchen
+40852, Novel IRROY, 603.68, Books
+97895, Blender KSJHL, 123.25, Home & Kitchen
+96314, Cutting Board LUICX, 628.29, Home & Kitchen
+85719, Laptop GZORF, 641.33, Electronics
+98625, Mystery BOPTP, 160.68, Books
+66208, Blender GCZSK, 161.83, Home & Kitchen
+86128, Biography ASTVE, 90.44, Books
+10889, Shirt DNRZU, 316.48, Clothing
+82777, Shirt OZWXU, 790.46, Clothing
+43451, Mixer CKVJQ, 379.5, Home & Kitchen
+12848, Toaster VZXUE, 867.97, Home & Kitchen
+17646, Biography BPWXR, 424.83, Books
+85197, Cutting Board IJVPP, 986.89, Home & Kitchen
+13471, Knife Set TPCMO, 831.9, Home & Kitchen
+66237, Headphones LTPLK, 995.13, Electronics
+30251, Pants HCBKI, 450.68, Clothing
+46944, Smartwatch QNALX, 647.08, Electronics
+93533, Novel WOHSN, 516.39, Books
+95090, Cutting Board RBACL, 568.63, Home & Kitchen
+98827, Shirt RSQGL, 231.54, Clothing
+64489, Novel EFPYC, 502.61, Books
+39148, Cutting Board OYHCV, 220.15, Home & Kitchen
+25425, Mystery MGSPG, 783.17, Books
+69525, Camera XROCD, 76.05, Electronics
+44574, Knife Set ASRHX, 64.62, Home & Kitchen
